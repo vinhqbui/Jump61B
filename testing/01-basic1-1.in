@@ -1,0 +1,7 @@
+#* java -ea jump61.Main
+# Test the 'dump' and 'quit' commands.
+None
+dump
+quit
+
+

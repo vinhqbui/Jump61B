@@ -1,0 +1,10 @@
+#* java -ea jump61.Main
+manual blue
+1 1
+6 6
+1 1
+6 6
+dump
+quit
+
+

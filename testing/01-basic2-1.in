@@ -1,0 +1,10 @@
+#* java -ea jump61.Main
+# Test the 'set' command.
+manual blue
+set 1 1 2 r
+set 6 1 1 r
+set 1 6 2 b
+set 6 6 1 b
+dump
+quit
+

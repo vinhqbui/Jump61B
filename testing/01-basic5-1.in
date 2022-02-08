@@ -1,0 +1,8 @@
+#* java -ea jump61.Main
+# Test manual and simple move entry with two manual players.
+manual blue
+1 1
+2 1
+dump
+quit
+
